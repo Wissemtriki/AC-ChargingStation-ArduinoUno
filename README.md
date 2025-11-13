@@ -6,9 +6,10 @@ It includes the **PCB design files** and the **firmware source code**, integrati
 > ⚠️ Note: This project is still under development and testing. More updates and refinements will be added progressively.
 
 ### Tools Used
-- KiCad / Altium (depending on your design tool)
+- KiCad
 - Arduino Uno
 - Embedded C / Arduino IDE
+- PlatformIO
 
 ### Project Contents
 - PCB design folder
