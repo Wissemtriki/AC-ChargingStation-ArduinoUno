@@ -1,8 +1,18 @@
-This is a repository for a learning and development project (not a finished product).
-This repository contains:
-- Code for Arduino Uno to work as an EV AC Charging Station.
-- KiCAD Schematic and PCB of a Shield for Arduino Uno to make the hardware for an EV AC Charging Station.
-- Gerber files to fabricate the Shield.
-- BOM to assemble the Shield.
+# AC Charging Station
 
-Instructions to execute this learning project: https://www.udemy.com/course/electric-vehicle-charging-from-theory-to-practice/?referralCode=AC67637479A66E6618A2
+This project focuses on the **design and development of a PCB for an AC Electric Vehicle (EV) charging station** based on the **Arduino Uno** platform.  
+It includes the **PCB design files** and the **firmware source code**, integrating current and voltage sensing, control logic, and communication interfaces for an efficient AC charger.
+
+> ⚠️ Note: This project is still under development and testing. More updates and refinements will be added progressively.
+
+### Tools Used
+- KiCad / Altium (depending on your design tool)
+- Arduino Uno
+- Embedded C / Arduino IDE
+
+### Project Contents
+- PCB design folder
+- Firmware source code (Arduino sketches)
+- Hardware schematics
+- Documentation and ongoing design updates
+
